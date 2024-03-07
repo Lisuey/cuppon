@@ -2,8 +2,8 @@
   --roboto: "Roboto", sans-serif;
   --light: 300;
   --medium: 500;
-  --c-light: #F8F9FA;
-  --c-white: #FFFF;
+  --c-light: #f8f9fa;
+  --c-white: #ffff;
   --c-green: #28a745;
   --c-grey: #707070;
   --c-dark: #212529;
@@ -44,15 +44,15 @@
 }
 
 .fondo-verde {
-  background-color: #28A745;
+  background-color: #28a745;
   height: 62px;
 }
 
 .navbar-toggler {
-    width: 59px;
-    height: 42px;
-    border-color: white;
-    margin-right: 22px;
+  width: 59px;
+  height: 42px;
+  border-color: white;
+  margin-right: 22px;
 }
 
 .navbar-brand {
@@ -60,53 +60,18 @@
 }
 
 .offcanvas-body {
-  background-color: #28A745;
+  background-color: #28a745;
 }
 
 .btn-buscar {
   background-color: white;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer {
-    color: var(--c-grey);
-    
-    }
-    footer img{
-        width: 82px;
-        height: 24px;
-    }
-  color: #707070;
-  
-  }
-  footer img{
-      width: 82px;
-      height: 24px;
-  }
+  color: var(--c-grey);
+}
+
+footer img {
+  width: 82px;
+  height: 24px;
+}
