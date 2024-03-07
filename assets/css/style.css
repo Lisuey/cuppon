@@ -1,0 +1,52 @@
+/*CARD 05 06**/
+.card{
+}
+
+
+:root {
+    --roboto: "Roboto", sans-serif;
+    --light: 300;
+    --medium: 500;
+    --c-light: #F8F9FA;
+    --c-white: #FFFF;
+    --c-green: #28a745;
+    --c-grey: #707070;
+    --c-dark: #212529;
+  }
+
+  .os-light {
+    font-family: var(--roboto);
+    font-weight: var(--light);
+  }
+
+  .os-medium {
+    font-family: var(--roboto);
+    font-weight: var(--medium);
+  }
+
+  .c-green{
+    color: var(--c-green)!important;
+  }
+
+  .c-dark {
+    color: var(--c-dark);
+  }
+
+  .c-grey {
+    color: var(--c-grey)!important;
+  }
+  .fs-6{
+    font-size: 13px!important;
+    color: var(--c-grey)
+  }
+  .adress {
+    font-size: 13px;
+  }
+  .h5{
+    font-size: 20px!important;
+    margin-bottom: 3;
+  }
+  .fs-5{
+    font-size: 16px!important;
+    color: var(--c-grey)
+  }
