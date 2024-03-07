@@ -48,6 +48,12 @@
   height: 62px;
 }
 
+div img {
+  width: 278px;
+  height: 180px;
+}
+
+
 .navbar-toggler {
   width: 59px;
   height: 42px;
@@ -59,12 +65,22 @@
   margin-left: 20px;
 }
 
+.navbar-brand img {
+  width: 86px;
+  height: 25px;
+}
+
 .offcanvas-body {
   background-color: #28a745;
 }
 
 .btn-buscar {
   background-color: white;
+}
+
+.form {
+  background-color: #28a745;
+  padding: 25px 500px;
 }
 
 footer {
